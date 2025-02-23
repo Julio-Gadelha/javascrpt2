@@ -174,3 +174,11 @@ let filmes = [
 //console.log(`o filme titanic foi lançado em ${filmes[6].ano}`)
 
 //console.log(`o filme ${filmes[5].titulo} conhecido por todos quem não conhece não teve infancia mas para quem não sabe o filme foi lançado em ${filmes[5].ano} `)
+
+//console.log(`o filme ${filmes[2].titulo} foi lançado em ${filmes[2].ano}`)
+
+//console.log(`o filme ${filmes[9].titulo}  tem seu genero ${filmes[9].genero} no ano que doi lançado foi um estouro as bilheterias foi lançado em ${filmes[9].ano} `)
+
+//console.log(`o filme ${filmes[8].titulo} como seu nome ja diz na cara o filme tem seu genero ${filmes[8].genero}`)
+
+//console.log(`o filme ${filmes[0].titulo} foi lançado  em ${filmes[0].ano} para a galera mais nova vocês perderam uma obra prima o senhorzin`)
